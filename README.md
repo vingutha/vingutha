@@ -12,5 +12,5 @@ software projects involving skills related to Socket Programming, C, Python, Jav
 - 💬 Ask me about my projects.
 - 📫 How to reach me: vinuthna@buffalo.edu
 - 😄 Pronouns: she/her
-- ⚡ Fun fact: I listen to pop music A LOT!
+- ⚡ I listen to pop music A LOT!
 
